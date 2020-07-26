@@ -1,17 +1,17 @@
 # IAPlabs
-My labs have been refactored into 4 files - lab 1, lab 5, the external app and the api file
+lab 1, lab 5, the external app and the api file contains all labs
 
 # lab1
-Consists of all labs before the laravel exercise
+Has all labs before the laravel exercise
 
 # external app
-Consists of the ordering feature
+Has ordering feature
 
 # api
-The api implementation of the ordering feature lives here
+The api implementation of the ordering feature is here
 
 # lab5 
-Consists of the laravel exercise
+All laravel exercises
 To run this lab successfully excute the following commands
 
 
